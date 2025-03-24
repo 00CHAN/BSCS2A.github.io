@@ -19,7 +19,9 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Sample Page</h1>
-    <p>This is a simple HTML file with basic styling.</p>
+<?php
+  echo "<h1>Christian D. Naquila</h1>";
+  echo "<p>The Faculty of MSU-MSAT</p>";
+ ?>
 </body>
 </html>
